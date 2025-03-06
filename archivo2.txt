@@ -1,3 +1,0 @@
-Este es el archivo 2 ra exlicar Git y GitHub
-
-Vamos a cambiar este archivo para explicar como deshacer cambios
